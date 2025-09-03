@@ -1,7 +1,6 @@
 # Bajaj Finserv Health - Qualifier Submission
 
-**Candidate:** [Your Name]
-**Registration No:** [Your Registration Number]
+**Candidate:** Mayur TS
 
 ## Project Status
 
